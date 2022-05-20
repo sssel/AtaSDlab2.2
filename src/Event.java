@@ -1,0 +1,1 @@
+public enum Event { PlusOrMinus, Digit, UppercaseLetter, EOS, ANY}
